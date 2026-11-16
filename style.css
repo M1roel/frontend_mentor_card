@@ -1,0 +1,18 @@
+.card {
+  background-color: rgb(212, 208, 208);
+  width: 450px;
+  height: 600px;
+}
+
+article {
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  background-color: wheat;
+  border-radius: 20px;
+  padding: 10px;
+  margin: 10px;
+  width: 100px;
+}
